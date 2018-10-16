@@ -1,0 +1,1 @@
+void vectorAddCPU(float *a, float *b, float *c, int N);
