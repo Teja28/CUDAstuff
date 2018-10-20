@@ -4,8 +4,8 @@
 #include <ratio>
 #include <chrono>
 
-#include "./vector_add_cpu.h"
-#include "./vector_add_gpu.h"
+#include "../include/vector_add_cpu.h"
+#include "../include/vector_add_gpu.h"
 
 using namespace std;
 using namespace std::chrono;

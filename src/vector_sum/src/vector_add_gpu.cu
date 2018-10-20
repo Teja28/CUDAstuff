@@ -1,5 +1,5 @@
 #include <iostream>
-#include "vector_add_gpu.h"
+#include "../include/vector_add_gpu.h"
 using namespace std;
 
 
